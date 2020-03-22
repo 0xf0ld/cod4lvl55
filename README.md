@@ -1,5 +1,5 @@
 # cod4lvl55 - Modernised
-##level 55, all weapons, challenges (only weapon challenges), etc.
+## level 55, all weapons, challenges (only weapon challenges), etc.
 
 **want to be max level like literally 99.99% of the entire Cod4 playerbase but all the guides are ages old,
 the guides are on patch 1.7,
@@ -7,7 +7,7 @@ if there is a 1.8 patch guide, it's for non-steam and not using Cod4x,
 or you're just that lazy like me?**
 i got you. a modern drag and drop profile to use for Cod4x 1.8, both non-steam and steam. i personally use steam cod4x 1.8.
 
-##instructions:
+## instructions:
 1. clone this repo to get the mpdata file.
 2. drag and drop the mpdata you downloaded into `Call of Duty 4 directory\players\profiles\YOURNAMEHERE\mpdata`
 3. slap ass in 2k20
